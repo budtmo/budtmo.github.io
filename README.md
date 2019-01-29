@@ -1,5 +1,5 @@
 # Personal Website
 
-Page: [butomo1989.github.io](https://butomo1989.github.io/)
+Page: [budtmo.github.io](https://budtmo.github.io/)
 
 Template taken from https://github.com/sergiokopplin/indigo
