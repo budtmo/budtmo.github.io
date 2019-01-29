@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://butomo1989.github.io
+url: https://budtmo.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,14 +35,14 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: butomo1989
+twitter: budtmo
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 linkedin: utomobudi
 # youtube: myyoutube
 # spotify: myspotify
-github: butomo1989
+github: budtmo
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
